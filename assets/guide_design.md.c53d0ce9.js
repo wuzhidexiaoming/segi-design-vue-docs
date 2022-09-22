@@ -1,0 +1,1 @@
+import{o as e,a as t}from"./app.e3a20b1b.js";const c=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/design.md"}'),a={name:"guide/design.md"},i=Object.assign(a,{setup(s){return(r,n)=>(e(),t("div"))}});export{c as __pageData,i as default};
