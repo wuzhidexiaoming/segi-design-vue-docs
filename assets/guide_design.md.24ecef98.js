@@ -1,0 +1,1 @@
+import{o as e,a as t}from"./app.c3943601.js";const c=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/design.md"}'),a={name:"guide/design.md"},i=Object.assign(a,{setup(s){return(r,n)=>(e(),t("div"))}});export{c as __pageData,i as default};
